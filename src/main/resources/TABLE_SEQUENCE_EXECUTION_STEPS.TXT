@@ -1,0 +1,8 @@
+Execute:-
+1] Role table creation script.
+
+2]User_register table creation script
+
+3]user_enrollment table creation script
+
+4]user_role table creation script.
